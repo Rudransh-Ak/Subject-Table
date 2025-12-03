@@ -92,6 +92,7 @@ Table for my College Subjects and their brief
     </div>
 
     <hr>
+    <p>Know your teacher ur class's and ur course details here </p>
 
     <p><u>KIIT Teachers list with their rating link:-</u></p>
     <a href="https://docs.google.com/spreadsheets/u/0/d/1ofxojr8nRp_qgG8I2Bzwisg7mVHUIYSU_v7krw3jvNQ/htmlview?pru=AAABmuBeloo*hHNS1_riQ4cvkcfLqjpuEA"> click me </a>
